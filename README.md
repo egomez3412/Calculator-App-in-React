@@ -1,10 +1,11 @@
 # Calculator App in React
  
 Step 1. Download
-Step 2. install npm:
 
-  npm install
+Step 2. npm install
 
-  npm install react-scripts --save
+Step 3. npm install react-scripts --save
 
-  npm start
+Step 4. npm start
+
+Step 5. Done!
