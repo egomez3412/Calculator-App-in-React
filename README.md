@@ -3,5 +3,7 @@
 Download, install npm:
 
 npm install
+
 npm install react-scripts --save
+
 npm start
